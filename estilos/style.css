@@ -53,6 +53,7 @@ margin: auto;
 padding-top: 30px;
 background-image:linear-gradient(to bottom, var(--cor4), var(--cor6) );
 min-height: 210px;
+width: 100%;
 }
 
 
